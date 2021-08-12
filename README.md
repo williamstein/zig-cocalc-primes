@@ -1,5 +1,7 @@
 # Use Zig in CoCalc
 
+Same content on GitHub: https://github.com/williamstein/zig-cocalc-primes
+
 CoCalc now supports the [programming language zig](https://ziglang.org/).  (Use the Experimental software environment as of Aug 12, 2021, but this will be default in a few days.)
 
 - You can edit files that end in .zig and get syntax highlighting (from C) and formatting (by ctrl+shift+f) using `zig fmt`.
