@@ -18,7 +18,6 @@ CoCalc now supports the [programming language zig](https://ziglang.org/).  (Use 
 <br/>
 <br/>
 
-[Browse code here](./)
 
 I created two examples of zig programs for counting primes, starting from [this](https://rosettacode.org/wiki/Sieve_of_Eratosthenes#Zig).
 
